@@ -1,4 +1,4 @@
-Sure, here's a brief overview of each task:
+# PRODIGY-INFOTECH---INTERN
 
 1. **Responsive Landing Page:**
    - **Purpose:** Create a landing page that adjusts to different screen sizes (responsive design).
@@ -20,4 +20,4 @@ Sure, here's a brief overview of each task:
    - **Key Features:** Home page with a professional photo, sections for skill summary, detailed "About Me," and project showcases.
    - **Technologies Used:** HTML for structure, CSS for layout and styling (including responsive design for different devices), potentially JavaScript for interactive elements like navigation or project galleries.
 
-Each task involves a combination of HTML, CSS, and JavaScript to achieve its goals, catering to different aspects of web development from responsive design and interactivity to game logic and personal branding.# PRODIGY-INFOTECH---INTERN
+
